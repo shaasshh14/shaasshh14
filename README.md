@@ -33,4 +33,4 @@
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-tiwari-990b1320b/)  
-📧 shashankcoc4@gmail.com
+📧 shashanktiwari_230428@aitpune.edu.in
