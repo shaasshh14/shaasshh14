@@ -5,7 +5,7 @@
 🌱 Currently learning: React.js, Node.js  
 🏆 Winner of Enliven 2025 by GDSC AIT  
 🥉 2nd Runner-Up in Web Weaver 2025 by PICT College  
-📫 Reach me at: shashankcoc4@gmail.com  
+📫 Reach me at: shashanktiwari_230428@aitpune.edu.in  
 ---
 
 ### 🛠️ Tech Stack
