@@ -2,7 +2,7 @@
 
 🎓 B.Tech Student at Army Institute of Technology, Pune  
 💻 Front-End Developer | Web Enthusiast | CP  
-🌱 Currently learning: React.js, Node.js  
+🌱 Currently learning: React.js, Express.js  
 🏆 Winner of Enliven 2025 by GDSC AIT  
 🥉 2nd Runner-Up in Web Weaver 2025 by PICT College  
 📫 Reach me at: shashanktiwari_230428@aitpune.edu.in  
