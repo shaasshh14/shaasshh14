@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaasshh14&show_icons=true&theme=github_dark&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaasshh14)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaasshh14&layout=compact&theme=github_dark)
