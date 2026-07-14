@@ -139,7 +139,7 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaasshh14&show_icons=true&theme=github_dark&hide_border=true"/>
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaasshh14&show_icons=true&theme=github_dark&hide_border=true"/> -->
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaasshh14&theme=github-dark&hide_border=true"/>
 
