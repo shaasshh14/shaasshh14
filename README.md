@@ -35,7 +35,7 @@
 - 🏏 Opening Batsman – AIT Cricket Team
 - 🏆 Winner – Enliven 2025 (GDSC AIT)
 - 🥉 2nd Runner-Up – Web Weaver 2025 (PICT)
-- ⚡ Codeforces Specialist | 600+ DSA Problems Solved
+- ⚡ 600+ DSA Problems Solved
 - 🌍 Interested in Backend Engineering, Distributed Systems, DevOps & Cloud
 - 📈 Passionate about building scalable enterprise software
 
@@ -153,14 +153,6 @@
 
 ---
 
-# 🏆 Competitive Programming
-
-- ⭐ Codeforces Specialist
-- 💻 600+ DSA Problems Solved
-- 📚 Regular Competitive Programming Practice
-- 🚀 Strong foundation in Algorithms & Data Structures
-
----
 
 # 🌐 Connect With Me
 
