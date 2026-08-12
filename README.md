@@ -32,7 +32,7 @@
 - 💼 Software Engineer Intern @ **Barclays**
 - 🎓 Final Year B.E. Information Technology Student @ **Army Institute of Technology, Pune**
 - 👨‍💼 Technical Board Secretary (2025–26)
-- 🏏 Opening Batsman – AIT Cricket Team
+- 🏏 Batsman – AIT Cricket Team
 - 🏆 Winner – Enliven 2025 (GDSC AIT)
 - 🥉 2nd Runner-Up – Web Weaver 2025 (PICT)
 - ⚡ 600+ DSA Problems Solved
