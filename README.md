@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm Shashank Tiwari
 
-### Technology Developer Intern @ Barclays • Full Stack Developer • Competitive Programmer
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3FB950&center=true&vCenter=true&width=750&lines=Technology+Developer+Intern+@+Barclays;Full+Stack+Developer;Competitive+Programmer;Angular+%7C+FastAPI+%7C+Java;Building+Scalable+Applications;Always+Learning+Something+New"/>
 
 <p>
