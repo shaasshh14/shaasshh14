@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shashank Tiwari
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3FB950&center=true&vCenter=true&width=750&lines=Technology+Developer+Intern+@+Barclays;Full+Stack+Developer;Competitive+Programmer;Angular+%7C+FastAPI+%7C+Java;Building+Scalable+Applications;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3FB950&center=true&vCenter=true&width=750&lines=Technology+Developer+Intern+%40+Barclays;Full+Stack+Developer;Competitive+Programmer;Angular+%7C+FastAPI+%7C+Java;Building+Scalable+Applications;Always+Learning+Something+New"/>
 
 <p>
 <a href="https://www.linkedin.com/in/shashank-tiwari-990b1320b/">
@@ -16,7 +16,6 @@
 <a href="https://github.com/shaasshh14">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=shaasshh14&style=for-the-badge"/>
@@ -117,7 +116,8 @@
 |---------|------------|-------------|
 | **Let's Ping** | React • Node.js • Express • SQL | Social networking platform exclusively for AIT students |
 | **Scan-To-Save** | Python • Flask | QR-based emergency medical information system |
-| **Barclays Enterprise Dashboard** | Angular • FastAPI | Enterprise workload monitoring dashboard *(Internship Project)* |
+| **Internal Access Management** | Java • Spring Boot • PostgreSQL | Enterprise-style Identity & Access Management system |
+| **Enterprise Job Monitoring Dashboard** | Angular • FastAPI | Enterprise workload monitoring dashboard *(Internship Project)* |
 
 ---
 
@@ -125,21 +125,47 @@
 
 - 🚀 Enterprise Software Development
 - ⚡ Angular & FastAPI
+- ☕ Java & Spring Boot
 - 🔗 REST API Development
 - 🏗️ Backend Engineering
 - ☁️ Cloud & DevOps
 - 🧠 System Design
+- 🔐 Identity & Access Management
 - 🏆 Competitive Programming
 
 ---
 
-# 🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=shaasshh14&theme=github-dark-blue&hide_border=true"/> </div>
+# 📊 GitHub Analytics
 
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaasshh14&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaasshh14&layout=compact&hide_border=true&langs_count=8&theme=github_dark"/>
+
+</div>
 
 ---
 
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shaasshh14&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaasshh14&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
 
 # 🌐 Connect With Me
 
