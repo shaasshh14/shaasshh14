@@ -135,33 +135,29 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaasshh14&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaasshh14&layout=compact&hide_border=true&langs_count=8&theme=github_dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaasshh14&theme=github-compact&hide_border=true&area=true&custom_title=Shashank%27s%20Contribution%20Graph"/>
 
 </div>
 
----
-
-# 🔥 Contribution Streak
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shaasshh14&theme=github-dark-blue&hide_border=true"/>
+<a href="https://github.com/shaasshh14">
+<img src="https://img.shields.io/github/followers/shaasshh14?label=Followers&style=for-the-badge&logo=github"/>
+</a>
 
-</div>
+<a href="https://github.com/shaasshh14?tab=repositories">
+<img src="https://img.shields.io/github/stars/shaasshh14?affiliations=OWNER&style=for-the-badge&logo=github"/>
+</a>
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaasshh14&theme=github-compact&hide_border=true&area=true"/>
+<a href="https://github.com/shaasshh14?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-View-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
